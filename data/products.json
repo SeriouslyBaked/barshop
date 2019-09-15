@@ -1,0 +1,18 @@
+[
+  {
+    "id": "GOLD_WHEAT",
+    "name": "Golden Wheat IPA",
+    "price": 1.95,
+    "image": "/images/GOLD_WHEAT.jpg",
+    "description": "Golden Wheat IPA tastes of summer, sun and light, with fruity over tones and lots of hops.",
+    "product_url": "http://snipcart-hugo-forestery.netlify.com"
+  },
+  {
+    "id": "OLD_STOUT",
+    "name": "Old Stout",
+    "price": 2.95,
+    "image": "/images/oldstout.jpg",
+    "description": "Are you a someone that likes something a little bit more heavy and tasteful, then try this black old stout.",
+    "product_url": "http://snipcart-hugo-forestery.netlify.com"
+  }
+]

@@ -1,0 +1,12 @@
+$font-stack:    Calibri, Arial, Helvetica, sans-serif;
+$text-color1: #DDD292; 
+$text-color2: #EADA7C;
+$border-color: #ECE4B7;
+$primary-color: #302B0F;
+$secondary-color: #DDC330;
+
+body {
+  font: 100% $font-stack;
+  color: $text-color1;
+  background-color: $primary-color;
+}
